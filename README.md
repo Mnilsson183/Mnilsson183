@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Mnilsson183
-- 👀 I’m interested in expanding my skills and education in the field of software development 
+- 👋 Hi, I’m Morgan Nilsson.
+- 👀 I’m interested in expanding my skills and education in the field of software development.
 - 🌱 I’m currently learning Harvards CS50.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
 -   Email: morgan.nilsson7111@icloud.com
 -   LinkedIn: https://www.linkedin.com/in/morgan-nilsson-2a4687267/
